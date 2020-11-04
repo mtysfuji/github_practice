@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sysstat PUBLIC "DTD v2.16 sysstat //EN"
+"http://pagesperso-orange.fr/sebastien.godard/sysstat-2.16.dtd">
+<sysstat>
+	<sysdata-version>2.16</sysdata-version>
+	<host nodename="fuji-linux">
+		<sysname>Linux</sysname>
+		<release>3.10.0-1062.4.3.el7.x86_64</release>
+		<machine>x86_64</machine>
+		<number-of-cpus>8</number-of-cpus>
+		<file-date>2020-04-22</file-date>
+		<statistics>
+			<timestamp date="2020-04-21" time="22:50:01" utc="1" interval="600">
+				<cpu-load>
+					<cpu number="all" user="0.05" nice="0.00" system="0.03" iowait="0.06" steal="0.00" idle="99.87"/>
+				</cpu-load>
+			</timestamp>
+			<timestamp date="2020-04-21" time="23:00:01" utc="1" interval="600">
+				<cpu-load>
+					<cpu number="all" user="0.03" nice="0.00" system="0.02" iowait="0.05" steal="0.00" idle="99.90"/>
+				</cpu-load>
+			</timestamp>
+			<timestamp date="2020-04-21" time="23:10:01" utc="1" interval="600">
+				<cpu-load>
+					<cpu number="all" user="0.04" nice="0.00" system="0.02" iowait="0.03" steal="0.00" idle="99.91"/>
+				</cpu-load>
+			</timestamp>
+			<timestamp date="2020-04-21" time="23:20:01" utc="1" interval="600">
+				<cpu-load>
+					<cpu number="all" user="0.18" nice="0.00" system="0.15" iowait="0.03" steal="0.00" idle="99.64"/>
+				</cpu-load>
+			</timestamp>
+			<timestamp date="2020-04-22" time="10:10:01" utc="1" interval="599">
+				<cpu-load>
+					<cpu number="all" user="0.40" nice="0.01" system="0.14" iowait="0.15" steal="0.00" idle="99.31"/>
+				</cpu-load>
+			</timestamp>
+			<timestamp date="2020-04-22" time="10:20:01" utc="1" interval="600">
+				<cpu-load>
+					<cpu number="all" user="0.03" nice="0.00" system="0.02" iowait="0.02" steal="0.00" idle="99.93"/>
+				</cpu-load>
+			</timestamp>
+			<timestamp date="2020-04-22" time="10:30:01" utc="1" interval="600">
+				<cpu-load>
+					<cpu number="all" user="0.04" nice="0.01" system="0.06" iowait="0.13" steal="0.00" idle="99.76"/>
+				</cpu-load>
+			</timestamp>
+			<timestamp date="2020-04-22" time="10:40:01" utc="1" interval="600">
+				<cpu-load>
+					<cpu number="all" user="0.04" nice="0.00" system="0.02" iowait="0.02" steal="0.00" idle="99.93"/>
+				</cpu-load>
+			</timestamp>
+			<timestamp date="2020-04-22" time="10:50:01" utc="1" interval="600">
+				<cpu-load>
+					<cpu number="all" user="0.03" nice="0.00" system="0.02" iowait="0.02" steal="0.00" idle="99.93"/>
+				</cpu-load>
+			</timestamp>
+			<timestamp date="2020-04-22" time="11:00:01" utc="1" interval="600">
+				<cpu-load>
+					<cpu number="all" user="0.02" nice="0.00" system="0.02" iowait="0.04" steal="0.00" idle="99.92"/>
+				</cpu-load>
+			</timestamp>
+			<timestamp date="2020-04-22" time="11:10:02" utc="1" interval="601">
+				<cpu-load>
+					<cpu number="all" user="6.20" nice="0.00" system="4.77" iowait="7.86" steal="0.00" idle="81.18"/>
+				</cpu-load>
+			</timestamp>
+			<timestamp date="2020-04-22" time="11:20:04" utc="1" interval="602">
+				<cpu-load>
+					<cpu number="all" user="10.38" nice="0.00" system="5.43" iowait="8.68" steal="0.00" idle="75.51"/>
+				</cpu-load>
+			</timestamp>
+			<timestamp date="2020-04-22" time="11:30:02" utc="1" interval="598">
+				<cpu-load>
+					<cpu number="all" user="10.24" nice="0.00" system="5.55" iowait="7.26" steal="0.00" idle="76.96"/>
+				</cpu-load>
+			</timestamp>
+			<timestamp date="2020-04-22" time="11:40:02" utc="1" interval="600">
+				<cpu-load>
+					<cpu number="all" user="7.77" nice="0.00" system="5.75" iowait="6.97" steal="0.00" idle="79.51"/>
+				</cpu-load>
+			</timestamp>
+			<timestamp date="2020-04-22" time="11:50:01" utc="1" interval="600">
+				<cpu-load>
+					<cpu number="all" user="9.98" nice="0.00" system="4.79" iowait="4.71" steal="0.00" idle="80.52"/>
+				</cpu-load>
+			</timestamp>
+		</statistics>
+		<restarts>
+			<boot date="2020-04-22" time="09:59:05" utc="1"/>
+		</restarts>
+	</host>
+</sysstat>
